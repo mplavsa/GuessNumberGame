@@ -1,4 +1,4 @@
-/*jshint esversion: 6 */
+
 
 // Game values
 let randNumber = Math.floor(Math.random() * 100) + 1;
