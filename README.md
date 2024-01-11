@@ -1,2 +1,2 @@
 # GuessNumberGame
-Guess number between 1 and 100.
+Guess a number between the 1 and 100.
